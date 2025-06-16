@@ -16,6 +16,8 @@ We developed pancreatic cancer therapy using modifying the T-cells to specifical
 
 ## Results
 
+![image](https://github.com/user-attachments/assets/8d82b31d-4a97-48de-b4c4-5170efc6e004)
+
 ## Collaborators
 
 This research was conducted as part of Dr. Paolo Provenzano's cancer bioengineering lab at Univeristy of Minnesota-Twin Cities
