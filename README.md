@@ -26,5 +26,5 @@ Dr. Paolo Provenzano- https://www.linkedin.com/in/paolo-provenzano-a80b244/
 
 ## Author
 Renuka Dixit
-LinkedIn- https://www.linkedin.com/in/dixit-renuka
-Portfolio- https://renukadxt4210.wixsite.com/renuka-dixit
+- LinkedIn- https://www.linkedin.com/in/dixit-renuka
+- Portfolio- https://renukadxt4210.wixsite.com/renuka-dixit
